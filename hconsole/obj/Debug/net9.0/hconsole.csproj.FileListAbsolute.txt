@@ -1,0 +1,14 @@
+D:\cat-Aa\hconsole\hconsole\obj\Debug\net9.0\hconsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat-Aa\hconsole\hconsole\obj\Debug\net9.0\hconsole.AssemblyInfoInputs.cache
+D:\cat-Aa\hconsole\hconsole\obj\Debug\net9.0\hconsole.AssemblyInfo.cs
+D:\cat-Aa\hconsole\hconsole\obj\Debug\net9.0\hconsole.csproj.CoreCompileInputs.cache
+D:\cat-Aa\hconsole\hconsole\bin\Debug\net9.0\hconsole.exe
+D:\cat-Aa\hconsole\hconsole\bin\Debug\net9.0\hconsole.deps.json
+D:\cat-Aa\hconsole\hconsole\bin\Debug\net9.0\hconsole.runtimeconfig.json
+D:\cat-Aa\hconsole\hconsole\bin\Debug\net9.0\hconsole.dll
+D:\cat-Aa\hconsole\hconsole\bin\Debug\net9.0\hconsole.pdb
+D:\cat-Aa\hconsole\hconsole\obj\Debug\net9.0\hconsole.dll
+D:\cat-Aa\hconsole\hconsole\obj\Debug\net9.0\refint\hconsole.dll
+D:\cat-Aa\hconsole\hconsole\obj\Debug\net9.0\hconsole.pdb
+D:\cat-Aa\hconsole\hconsole\obj\Debug\net9.0\hconsole.genruntimeconfig.cache
+D:\cat-Aa\hconsole\hconsole\obj\Debug\net9.0\ref\hconsole.dll
